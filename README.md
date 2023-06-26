@@ -1,0 +1,1 @@
+This is an implementation in C of some of the most common libc methods.
